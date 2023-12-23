@@ -1,0 +1,28 @@
+
+[
+  {
+    "name":"Монки Д. Луффи",
+    "age": "19",
+    "photo": "https://tl.rulate.ru/i/book/22/11/25114.jpg"
+  },
+  {
+    "name": "Ророноа Зоро",
+    "age": "21",
+    "photo": "'https://pm1.aminoapps.com/6836/517e3da0508e7fbc64bbc1e7db0304f59a5d2a4ev2_hq.jpg"
+  },
+  {
+    "name": "Шанкс",
+    "age": "27",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCGjEAef0QZns9RVHXiDBdIMv6Lls8p4zXg&usqp=CAU"
+  },
+  {
+    "name": "Донкихот Дофламинго",
+    "age": "31",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdInB_YyvN1WvYsyVHrQRLWDl9tvRdL2OzLA&usqp=CAU"
+  },
+  {
+    "name": "Эдвард Ньюгейт",
+    "age": "52",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOHheRdcXsa_9ZqmlOaaXO6q-qrQkY5bpXA&usqp=CAU"
+  }
+]
